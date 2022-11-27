@@ -1,0 +1,20 @@
+
+body{
+    background-color: lightblue;
+}
+.form{
+    text-align: center;
+}
+.btn {
+    margin-left: 30px;
+   background-color:darkblue;
+   color: white;
+}
+.Reg{
+    background-color:green;
+    color: white;
+} 
+.Login{
+    background-color:darkgreen;
+    color: white;
+}
